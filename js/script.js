@@ -19,7 +19,7 @@ const height= parseFloat(document.getElementById('height').value)
 
 // process
 
-const area= (a_base + b_base) / 2 * height
+const area= ((a_base+b_base) / 2) * height
 
 // output
 document.getElementById('area2').innerHTML = 'Area is: ' + area + ' cm²'
