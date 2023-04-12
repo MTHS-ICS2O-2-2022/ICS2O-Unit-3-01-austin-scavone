@@ -10,7 +10,7 @@
 
 
 .mdl-textfield__error {
-  color: rgb(225, 232, 27);
+  color: rgb(225 232 27);
 }
 
 
@@ -22,7 +22,7 @@
 
 
 body {
-  background-color: rgb(64, 95, 154);
+  background-color: rgb(64 95 154);
 }
 
 img {
